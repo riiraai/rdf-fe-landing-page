@@ -1,0 +1,3 @@
+[submodule "src/@core-ui"]
+	path = src/@core-ui
+	url = https://github.com/ryakadev/rdf-fe-core-ui.git
